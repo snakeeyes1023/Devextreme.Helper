@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJz/vULj2v8/2v7O4fuISfncoRZktIHwrGSlRcpNMOIsQQzvuZn8kiMTjEMQrHdU+0MxHDpkj9Y899dPCkA5Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jfcot\\source\\repos\\Snake.Devextreme.Helpers\\Snake.Devextreme.Helpers\\Snake.Devextreme.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jfcot\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\6.0.1\\microsoft.extensions.localization.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

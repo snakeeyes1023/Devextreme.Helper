@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Snake.Devextreme.Helpers</id>
+    <version>1.0.0</version>
+    <authors>Jonathan Côté</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Some helper For Devextreme</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>2021</copyright>
+    <tags>Helpers Db Query Dapper</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.Extensions.Localization.Abstractions" version="6.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\bin\Debug\netstandard2.1\Snake.Devextreme.Helpers.dll" target="lib\netstandard2.1\Snake.Devextreme.Helpers.dll" />
+  </files>
+</package>

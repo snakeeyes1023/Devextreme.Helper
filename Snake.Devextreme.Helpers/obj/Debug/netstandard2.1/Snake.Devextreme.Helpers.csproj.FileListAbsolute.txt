@@ -1,0 +1,9 @@
+C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\bin\Debug\netstandard2.1\Snake.Devextreme.Helpers.deps.json
+C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\bin\Debug\netstandard2.1\Snake.Devextreme.Helpers.dll
+C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\bin\Debug\netstandard2.1\Snake.Devextreme.Helpers.pdb
+C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\obj\Debug\netstandard2.1\Snake.Devextreme.Helpers.csproj.AssemblyReference.cache
+C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\obj\Debug\netstandard2.1\Snake.Devextreme.Helpers.AssemblyInfoInputs.cache
+C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\obj\Debug\netstandard2.1\Snake.Devextreme.Helpers.AssemblyInfo.cs
+C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\obj\Debug\netstandard2.1\Snake.Devextreme.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\obj\Debug\netstandard2.1\Snake.Devextreme.Helpers.dll
+C:\Users\jfcot\source\repos\Snake.Devextreme.Helpers\Snake.Devextreme.Helpers\obj\Debug\netstandard2.1\Snake.Devextreme.Helpers.pdb
